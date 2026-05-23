@@ -1,1 +1,3 @@
-- [CANVAS](https://www.youtube.com/watch?v=XBxO6Jr5NSA)
+- [CANVAS PÁGINA](https://www.canva.com/)
+- [CANVAS TUTORIAL](https://www.youtube.com/watch?v=pIl-JKvHj3A)
+- [GIMP TUTORIAL](https://www.youtube.com/watch?v=cib_Syc92CI&t=1s)
